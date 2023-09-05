@@ -1,5 +1,8 @@
 # G1_OOPs_LabSession1
 
+Requirements: 
+Windows/Mac Setup + Java installed
+
 Problem Statement:
 You are an IT Support Administrator and are charged with the task of creating credentials for
 new hires
